@@ -1,0 +1,36 @@
+body{margin: 0;
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(25, 25, 55);
+font-family: 'Times New Roman', Times, serif;
+}
+.card{width: 320px;
+padding: 25px;
+text-align: center;
+background-color: rgb(123, 149, 177);
+border-radius: 40px;
+box-shadow: 0 5px 15px rgb(96 13 13 0.15) ;
+}
+.card img{width: 220px;
+height: 220px;
+border-radius: 60px;
+object-fit: cover;
+}
+h1{color: coral;
+}
+p{color: #895151;
+line: height 1.5em;;
+}
+h3{color: rgb(21, 21, 66);}
+ol{text-align: left;
+color: rgb(36, 47, 56);
+}
+a{display:inline-block;
+margin: 5px;
+color: rgb(146, 59, 133);
+text-decoration: none;
+}
+a{text-decoration: underline;
+}
